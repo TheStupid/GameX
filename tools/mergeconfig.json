@@ -1,0 +1,4 @@
+{
+	"change":["petcarddata.json", "itemdata.json", "eggconfig.json", "petassetsmap.json","taskdata.json","clothesdata.json"],
+	"notchange":["petcard2data.json", "inscriptiondata.json", "miracledata.json", "astralspiritdata.json", "summonerconfig.json", "petstonedata.json"]
+}

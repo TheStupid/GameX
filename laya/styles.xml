@@ -1,0 +1,54 @@
+<res>
+   <item name="common/dialog" type="" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="common/dialog/img_black.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="common/img_black.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="common/res/img_loading.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="common/res/img_loading.json" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="login/loginpanel/image_black_frame.png" type="Image" props="x=246@@!@@y=0@@!@@sizeGrid=9,10,8,8@@!@@width=37@@!@@height=38"/>
+   <item name="common/logo.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="login/selectrolepanel/img_bg.png" type="Image" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="loader/loadingsprite/fullscreen/progressbar.png" type="ProgressBar" compress="0" pack="0" quality="80" props="" picType="0" scale="0"/>
+   <item name="common/hscroll.png" type="HScrollBar" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="common/img_startbg.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="login/startpanel/bg.jpg" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="login/startpanel/btn_get.png" type="Button" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="common/img_bg.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="login/selectrolepanel/img_bg.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="pet" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="peticon" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="petpackage/petpackagepanel/img_bg.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="petattribute" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="petcard" type="" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="petcard/base" type="" compress="0" pack="1" quality="80" props="" picType="0" scale="0"/>
+   <item name="starlevel" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="astralspirit/icon" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="petcard/icon" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="petcard2/icon" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="inscription/icon" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="inscription" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="item/icon" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="genius/view" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="item" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="sounds" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="common/img_panel_bg.png" type="Image" compress="0" pack="0" quality="80" props="sizeGrid=64,108,61,111" picType="0" scale="0"/>
+   <item name="common/btn_yellow.png" type="Button" compress="0" pack="0" quality="80" props="sizeGrid=16,16,16,16@@!@@stateNum=1@@!@@labelAlign=center@@!@@labelColors=#d26616@@!@@labelFont=Microsoft YaHei@@!@@labelSize=16" picType="0" scale="0"/>
+   <item name="common/btn_blue2.png" type="Button" compress="0" pack="0" quality="80" props="sizeGrid=16,16,16,16@@!@@stateNum=1@@!@@labelAlign=center@@!@@labelColors=#0f5490@@!@@labelFont=Microsoft YaHei@@!@@labelSize=16" picType="0" scale="0"/>
+   <item name="common/btn_close.png" type="Button" compress="0" pack="0" quality="80" props="stateNum=1" picType="0" scale="0"/>
+   <item name="activityres/activity200605/hotspring/img_bg2.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="activityres/activity200605/hotspring/avatar" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="usercard/img_bg.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="activityres/activity200605/welfare/img_qr_1_1.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="activityres/activity200605/welfare/img_bg0.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="activityres/activity200605/welfare/share.jpg" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="activityres/activity200619/notice/img_bg.jpg" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="hud" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="common/notify/img_notify.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="common/notify" type="" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="activityres/activity200731/crazyfarmergame/img_bg1.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="activityres/activity200731/crazyfarmergame/img_bg3.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="activityres/activity200731/crazyfarmergame/img_bg1.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="activityres/activity200731/crazyfarmergame/img_bg3.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="activityres/activity200731/crazyfarmergame/img_bg4.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="activityres/activity200731/crazyfarmergame/img_bg5.png" type="Image" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+   <item name="activityres/activity200731/crazyfarmergame/gearmovie.png" type="Sprite" compress="0" pack="2" quality="80" props="" picType="0" scale="0"/>
+</res>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/.idea" />
+      <excludeFolder url="file://$MODULE_DIR$/.laya" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/activityres" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/antiaddiction" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/closed" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/common" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/controlbar" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/fighttalk" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/hud" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/levelup" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/loader" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/login" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/material" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/petfightnew" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/petpackage" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/petui" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/petwarehouse" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/plugin" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/scene" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/secondpwd" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/sounds" />
+      <excludeFolder url="file://$MODULE_DIR$/bin/usercard" />
+      <excludeFolder url="file://$MODULE_DIR$/laya" />
+      <excludeFolder url="file://$MODULE_DIR$/tools" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

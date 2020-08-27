@@ -1,0 +1,26 @@
+1.函数名 直接是 get(xx:int)（不是get方法）的时候转换报错不成功。
+2.转换过来原来引用两个类，ts都用同一类，导致重复导入同一个类的问题。 已解决了
+3.this. 闭包里面参数加错问题  已解决了
+5.增加支持闭包->lamda表达式  已解决了
+7.Translator.translate 干掉 已解决了
+
+
+8.int.MAX_VALUE->Number.MAX_VALUE 已解决了
+9.getService 补ServiceConfig.xxx导入补并自动导入ServiceConfig
+ServiceContainer.getService(IVipService) forSvc(IFormationService)
+ServiceContainer.tryGetService(IConfigureFormation
+已解决了
+10.this.console.log->console.log 已解决了
+11.for (var key:string in tmpObj)->for(let key in xx)
+  foreach ->for(let of)
+已解决了
+12.没有import的同层类,没有自动导入  已解决了
+13.bug:比如{"name":_name}就变{"name":_namethis.}
+//源代码解析树有bug:"kind": "value"
+
+14.匹配AQPanel setXXX()的前面自动加上this.setXXX()
+
+
+15.uint.MIN_VALUE->0
+16.OPT_SET_CHALLENGE_INTERFACE 标记->AQPanel.OPT_SET_CHALLENGE_INTERFACE
+17.HashMap->Dictionary,自动导入Dictionary
